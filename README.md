@@ -1,2 +1,1 @@
-Fangcheng's personal github page
-https://fangchengdou.github.io/
+My personal github page: https://fangchengdou.github.io/
